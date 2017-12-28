@@ -1,0 +1,17 @@
+{
+  "name": "language-xbase",
+  "version": "0.1.0",
+  "description": "XBase++ language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mccount/language-xbase.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mccount/language-xbase/issues"
+  },
+  "license": ""
+}
